@@ -1,0 +1,4 @@
+883925 선택 후 883926 선택 → 884304까지 2 간격으로 선택 
+print("entryselectonly entry 883925")
+for i in range(883926,884305,2):
+    print("entryselect entry",i)
