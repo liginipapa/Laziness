@@ -1,0 +1,5 @@
+882327 선택 후 882328을 선택하고 merge → 882327 선택 후 882329을 선택하고 merge → ...
+for i in range(882328,882518):
+    print("entryselectonly entry 882327")
+    print("entryselect entry entryselectonly entry",i)
+    print("entrycombine replace=false onlyinclude=false order=row merge")
